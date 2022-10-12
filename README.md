@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DimitarSotirov7
+- 👋 Hi, I’m Dimitar Sotirov
 - 👀 I’m interested in .NET and Angular
 
 <!---
